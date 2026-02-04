@@ -26,7 +26,7 @@ Open your cloned fork in `VS Code`.
 git switch main
 ```
 
-Alternatively, use [`Command Palette`](https://code.visualstudio.com/docs/getstarted/getting-started#_access-commands-with-the-command-palette) -> `GitLens: Git Switch to...`.
+Alternatively, use [`Command Palette`](../../appendix/vs-code.md#command-palette) -> `GitLens: Git Switch to...`.
 
 ### 5. Create two branches from `main`
 
