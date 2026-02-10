@@ -3,6 +3,7 @@
 <h2>Table of contents</h2>
 
 - [Lab overview](#lab-overview)
+- [Lab story](#lab-story)
 - [Learning advice](#learning-advice)
 - [Learning outcomes](#learning-outcomes)
 - [Tasks](#tasks)
@@ -19,6 +20,30 @@
 
 You'll use `Git` and `GitHub` for development, collaboration, and deployment.
 
+## Lab story
+
+You were hired by a company that develops a novel e-learning system which recommends educational resources to students.
+
+You have joined a [back end](https://roadmap.sh/backend) team in that company.
+
+Your team is working on a read-only service called **Course Materials Service**.
+
+The service is implemented using the [`FastAPI`](https://fastapi.tiangolo.com/) framework in [`Python`](https://www.python.org/).
+
+Currently, it serves courses-related items (courses, labs, tasks, steps).
+
+For simplicity, the service uses data stored is [`JSON`](https://en.wikipedia.org/wiki/JSON) files (`JSON resources`) in [`src/app/data/course_items.json`](./src/app/data/course_items.json).
+
+A senior engineer explains your first assignment:
+
+> Before we give you bigger features, you need to show you can:
+>
+> 1. Run our back end service on your machine.
+> 2. Verify that it’s working: query the `/status` endpoint.
+> 3. Investigate and fix a bug in the `/items` endpoint.
+> 4. Deploy your updated service to a remote `Linux` server.
+>
+> We expect that you'll communicate through issues and PRs and deliver a working deployment.
 
 ## Learning advice
 
