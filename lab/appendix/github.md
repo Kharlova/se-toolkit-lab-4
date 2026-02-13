@@ -3,6 +3,8 @@
 <h2>Table of contents</h2>
 
 - [The `GitHub` site](#the-github-site)
+- [Your `GitHub` username](#your-github-username)
+  - [Find `<your-username>`](#find-your-username)
 - [Repository](#repository)
 - [Fork](#fork)
   - [Fork a repo](#fork-a-repo)
@@ -29,6 +31,22 @@
 ## The `GitHub` site
 
 The `GitHub` site has this [URL](./web-development.md#url): <https://github.com>.
+
+## Your `GitHub` username
+
+We'll refer to your `GitHub` username as `<your-username>`.
+
+Example of a username: `johndoe`.
+
+Note that this username doesn't include `@`.
+
+`<your-username>` also doesn't include `@`.
+
+### Find `<your-username>`
+
+1. Go to the [`GitHub` site](#the-github-site).
+2. Sign in if necessary.
+3. You'll see your username in the top left corner.
 
 ## Repository
 

@@ -57,15 +57,7 @@
 ### 3. Sign in on `GitHub`
 
 1. Sign in on [`GitHub`](https://github.com/).
-
-> [!NOTE]
-> We'll refer to your `GitHub` username as `<your-username>`.
->
-> Example of a username: `johndoe`.
->
-> Note that this username doesn't include `@`.
->
-> `<your-username>` also doesn't include `@`.
+2. [Find `<your-username>`](./appendix/github.md#find-your-github-username).
 
 ### 4. Fork the course instructors' repo
 
