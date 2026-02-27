@@ -236,8 +236,10 @@ A placeholder for the name of the [compare branch](#compare-branch).
 1. [Open the PR editor using `GitHub`](#open-the-pr-editor-using-github)
 2. [Finish creating a PR](#finish-creating-a-pr)
 
+<!-- TODO explain better
 > [!TIP]
 > You can also [create a PR using  `GitHub Pull Requests` extension](https://code.visualstudio.com/docs/sourcecontrol/github#_creating-pull-requests).
+-->
 
 ### Open the PR editor using `GitHub`
 
